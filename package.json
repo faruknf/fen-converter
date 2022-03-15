@@ -1,0 +1,14 @@
+{
+  "name": "fen-converter",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest test/*.test.js"
+  },
+  "keywords": [],
+  "author": "faruknf",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
